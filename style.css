@@ -1,1 +1,19 @@
+body {
+  front-family: Arail, snas-serif;
+  text-align: center;
+  padding-top: 100px;
+}
 
+h1 {
+  front-size: 40px;
+}
+
+p {
+  font-size: 18px;
+}
+
+botton {
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
